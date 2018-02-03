@@ -1,6 +1,5 @@
 ---
 title: 说说node中的可读流和可写流
-tags: ['node','javascript'] 
 ---
 
 ## 前言
